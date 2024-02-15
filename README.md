@@ -12,4 +12,5 @@
 ![Screenshot_5](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/873ab112-225d-48a5-84d4-2a03b0b86b82)
 ## 6. Создаем клиент.
 ![Screenshot_6](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/ad331d41-de75-4535-9444-ac160a12547c)
+![Screenshot_7](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/20c3a295-bd16-4722-910f-2bb658594676)
 ## 7. Создаем клиент.
