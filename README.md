@@ -8,3 +8,6 @@
 ![Screenshot_3](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/7657ed44-75fb-4b5b-b872-aa78dca66615)
 ## 4. Переходим на keycloak.
 ![Screenshot_4](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/ba9a4f47-4261-4232-a2e0-dce092a4adaa)
+## 5. Создаем пользователей.
+![Screenshot_5](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/873ab112-225d-48a5-84d4-2a03b0b86b82)
+## 7. Создаем пользователей.
