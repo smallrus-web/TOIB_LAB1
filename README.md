@@ -13,4 +13,12 @@
 ## 6. Создаем клиент.
 ![Screenshot_6](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/ad331d41-de75-4535-9444-ac160a12547c)
 ![Screenshot_7](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/20c3a295-bd16-4722-910f-2bb658594676)
-## 7. Создаем клиент.
+## 7. Поднимаем nextcloud.
+![Screenshot_8](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/95c4a52a-c2f4-49d6-9d4a-46dd71da4cf5)
+## 8. Подключаем и настраиваем SocialLogin.
+![Screenshot_10](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/7d6e54c4-222a-411c-99bb-aaf606d915f2)
+## 9. Проверяем появилась ли авторизация через keycloak.
+![Screenshot_11](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/763b9fd8-67ca-4007-aa27-5a2762a03d8e)
+## 10. Включаем двухфакторную аутентификации.
+![Screenshot_12](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/c37e66f4-c5c1-4096-a7a8-d9030e2bc8dd)
+## 11. Включаем двухфакторную аутентификации.
