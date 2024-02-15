@@ -21,4 +21,5 @@
 ![Screenshot_11](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/763b9fd8-67ca-4007-aa27-5a2762a03d8e)
 ## 10. Включаем двухфакторную аутентификации.
 ![Screenshot_12](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/c37e66f4-c5c1-4096-a7a8-d9030e2bc8dd)
-## 11. Включаем двухфакторную аутентификации.
+## 11. Страница настройки 2FA.
+![Screenshot_3](https://github.com/smallrus-web/TOIB_LAB1/assets/71121962/0321d3e2-bd04-44e6-ac1b-124fda61fc46)
